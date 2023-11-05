@@ -29,6 +29,9 @@ const Profile = ({formData}) => {
                     <h1>test</h1>
                     <h1>test</h1>
                     <p>abar likhsi</p>
+                    <span>
+                        new
+                    </span>
                     </div>
                     
                 </div>
